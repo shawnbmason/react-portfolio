@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "react-portfolio"
+    "name": "startReactSanity"
   },
   "api": {
-    "projectId": "w1my81t4",
+    "projectId": "19oolmj2",
     "dataset": "production"
   },
   "plugins": [
